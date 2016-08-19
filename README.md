@@ -8,7 +8,7 @@ and 200 levels deep. How well does your parser handle these? I'm happy to
 report that Leaflet does pretty well.
 
 But these are only mildly monstrous geometries. Mere fuzzy bunnies on the 
-spectrum of bizarre and insane geometries. Once I overcome (or work around) the
+spectrum of bizarre and insane geometries. Sanity loss of 1d4. Once I overcome (or work around) the
 recursion limitations of Python's `json` module (see the naive script in
 `bin/collection.py`), I suspect I'll be able to create *valid* GeoJSON
 geometries that can bring any mapping library to its knees!
